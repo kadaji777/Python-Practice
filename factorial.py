@@ -5,4 +5,4 @@ def factorial_recursive(n):
         return n * factorial_recursive(n - 1)
 
 # Example
-print(factorial_recursive(5))  # Output: 120
+print(factorial_recursive(5))  #  120 is the output
