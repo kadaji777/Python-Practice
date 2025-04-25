@@ -5,4 +5,4 @@ def check_even_odd(number):
         return "Odd"
 
 # Example
-print(check_even_odd(7))   # Output: Odd
+print(check_even_odd(7))   #the output will be odd
