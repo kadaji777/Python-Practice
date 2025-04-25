@@ -5,4 +5,4 @@ def reverse_string(s):
     return reversed_str
 
 # Example
-print(reverse_string("hello"))  # Output: "olleh"
+print(reverse_string("hello"))  # the output is "olleh"
