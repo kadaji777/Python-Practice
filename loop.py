@@ -4,5 +4,5 @@ def factorial_loop(n):
         result *= i
     return result
 
-# Example
-print(factorial_loop(5))   # Output: 120
+# For Example
+print(factorial_loop(5))   # the output is 120
