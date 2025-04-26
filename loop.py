@@ -6,3 +6,6 @@ def factorial_loop(n):
 
 # For Example
 print(factorial_loop(5))   # the output is 120
+
+
+#Start with result = 1, and multiply by every number from 1 to n.
