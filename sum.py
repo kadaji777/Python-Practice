@@ -7,4 +7,10 @@ def sum_of_digits(n):
     return total
 
 # Example
-print(sum_of_digits(1234))  # Output is 10
+print(sum_of_digits(1234))  # Output is 10Take the last digit using % 10
+
+#Add it to the total
+
+#Remove the digit using integer division // 10
+
+#Repeat until no digits left
