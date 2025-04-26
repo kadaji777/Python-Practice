@@ -6,3 +6,9 @@ def reverse_string(s):
 
 # Example
 print(reverse_string("hello"))  # the output is "olleh"
+
+#Read the string left to right.
+
+#Place each new character in front of what you’ve built so far.
+
+#Example: "h" → "eh" → "leh" → "lleh" → "olleh"
